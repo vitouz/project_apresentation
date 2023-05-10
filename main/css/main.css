@@ -77,6 +77,7 @@ body {
 
 .adm {
 	margin-top: 12vh;
+	margin-bottom: 12vh;
 }
 
 .last_paragrapher{
@@ -95,3 +96,20 @@ body {
 .text-block__p {
 	line-height: 1.75;
 }
+
+/*  sessão footer  */
+footer{
+    background: white;
+    padding: 20px 23px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+footer span a{
+    color: red;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
