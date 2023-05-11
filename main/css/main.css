@@ -65,6 +65,7 @@ body {
 	align-items: center;
 	flex-direction: column;
 }
+
 .gallery__item {
 	max-width: calc(var(--index) * 21);
 	margin-bottom: var(--gallery-gap);
@@ -100,6 +101,8 @@ body {
 .text-block__p {
 	line-height: 1.75;
 }
+
+
 
 /*  sessão footer  */
 footer{
