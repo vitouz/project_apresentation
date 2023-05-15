@@ -71,7 +71,9 @@ body {
 	margin-bottom: var(--gallery-gap);
 	max-height: 100vh;
 	border-radius: 8px;
+
 }
+
 .gallery__left {
 	margin-top: calc(var(--gallery-gap) * 1.75);
 }
